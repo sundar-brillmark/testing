@@ -27,6 +27,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 	display: none !important;
+	background: green !important;
 }
 
 /*
